@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollToTop</string>
+    <string name="json_data_url">https://api.jsonbin.io/b/5c3760ff05d34b26f2067b52</string>
+</resources>
